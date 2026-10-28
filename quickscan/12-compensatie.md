@@ -23,6 +23,7 @@
 | 12.8 | Commissies en ander variabel loon gaan correct naar payroll (module 13) | | | | |
 | 12.9 | Compensatiegegevens zijn alleen zichtbaar voor de rollen die ze nodig hebben (module 06) | | | | |
 | 12.10 | Salarisrondes / -verhogingen worden in Personio voorbereid en goedgekeurd | | | | |
+| 12.11 | Gevonden verschillen tussen mannen en vrouwen worden via de compensatiemodule gecorrigeerd, bijv. met gerichte salarisverhogingen in een salarisronde | | | | |
 
 ## Datacheck
 
@@ -36,18 +37,19 @@
 - Geen salarisbanden, of banden alleen in een Excel bij HR/finance
 - Geen functiearchitectuur (module 01), waardoor eerlijk vergelijken niet kan
 - Commissies worden in Excel berekend en met de hand aan payroll doorgegeven
-- Er is nooit een equal-pay-analyse gedaan
+- Er is nooit een equal-pay-analyse gedaan, of verschillen worden wel gezien maar niet gecorrigeerd
 - Te veel mensen kunnen salarissen zien
 
 ## Praktijktips
 
 - De compensatiemodule helpt om **equal pay** te verbeteren.
 - Je kunt er **sales commissies** in kwijt.
+- **Gender equal pay** kun je via de compensatiemodule **verhogen**: maak het verschil tussen mannen en vrouwen zichtbaar en corrigeer het met gerichte salarisverhogingen.
 - Zet de **filters** die je wilt om de **compensatie** te **vergelijken**.
 
 ## Opleverpunten voor de klant
 
 - Overzicht van salarisbanden per job family en level (of advies om ze op te stellen)
-- Eerste equal-pay-analyse met de belangrijkste verschillen
+- Eerste equal-pay-analyse met de belangrijkste verschillen, plus een voorstel om de gender pay gap te verkleinen
 - Advies voor het inrichten van sales commissies
 - Checklist voorbereiding EU-richtlijn loontransparantie
