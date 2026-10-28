@@ -15,3 +15,4 @@ Verzamelplek voor praktijktips over Personio. Elke tip wordt later verwerkt in d
 | 2026-10-28 | 06 | Je kunt medewerkers beperken in het bijwerken van informatie en laten werken met wijzigingen voorstellen. Rollen en rechten kun je echt per attribuut aanpassen. | `quickscan/06-rollen-en-rechten.md` |
 | 2026-10-28 | 05 / 14 | Wil je iets voor rapportagedoeleinden, zoals uren ouderschapsverlof voor analytics? Voeg het toe als attribuut en haal het op in Reporting. | `quickscan/05-medewerkersattributen-en-datakwaliteit.md` |
 | 2026-10-28 | 05 | Eigen attributen (custom fields) kun je per entiteit zichtbaar maken. | `quickscan/05-medewerkersattributen-en-datakwaliteit.md` |
+| 2026-10-28 | 08 | Onboarding na de hire: pas een onboardingtemplate toe, zet deadlines op de onboardingtaken en stel herinneringen in als die niet worden gehaald. | `quickscan/08-on-en-offboarding.md` |
