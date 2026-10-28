@@ -25,7 +25,7 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 09 | [On- en offboarding](quickscan/09-on-en-offboarding.md) | ✅ onboarding concept, offboarding te vullen |
 | 10 | Documenten & templates | ⏳ te vullen |
 | 11 | [Performance & goals](quickscan/11-performance-en-goals.md) | ✅ concept |
-| 12 | Compensatie & salarishuizen | ⏳ te vullen |
+| 12 | [Compensatie](quickscan/12-compensatie.md) | ✅ concept |
 | 13 | Payroll & integraties | ⏳ te vullen |
 | 14 | Rapportages & analytics | ⏳ te vullen |
 
