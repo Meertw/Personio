@@ -17,15 +17,16 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 01 | [Job families & track levels](quickscan/01-job-families-en-track-levels.md) | ✅ concept |
 | 02 | [Workforce planning & recruiting](quickscan/02-workforce-planning-en-recruiting.md) | ✅ concept |
 | 03 | Organisatiestructuur (entiteiten, afdelingen, teams, vestigingen, kostenplaatsen) | ⏳ te vullen |
-| 04 | Medewerkersattributen & datakwaliteit | ⏳ te vullen |
-| 05 | Rollen & rechten | ⏳ te vullen |
-| 06 | Verlof & verzuim | ⏳ te vullen |
-| 07 | Tijdregistratie | ⏳ te vullen |
-| 08 | On- en offboarding workflows | ⏳ te vullen |
-| 09 | Documenten & templates | ⏳ te vullen |
-| 10 | Performance & development | ⏳ te vullen |
-| 11 | Compensatie & salarishuizen | ⏳ te vullen |
-| 12 | Payroll & integraties | ⏳ te vullen |
-| 13 | Rapportages & analytics | ⏳ te vullen |
+| 04 | [Recruiting: jobs, applications & AI Signals](quickscan/04-recruiting-jobs-applications-ai-signals.md) | ✅ concept |
+| 05 | Medewerkersattributen & datakwaliteit | ⏳ te vullen |
+| 06 | Rollen & rechten | ⏳ te vullen |
+| 07 | Verlof & verzuim | ⏳ te vullen |
+| 08 | Tijdregistratie | ⏳ te vullen |
+| 09 | On- en offboarding workflows | ⏳ te vullen |
+| 10 | Documenten & templates | ⏳ te vullen |
+| 11 | Performance & development | ⏳ te vullen |
+| 12 | Compensatie & salarishuizen | ⏳ te vullen |
+| 13 | Payroll & integraties | ⏳ te vullen |
+| 14 | Rapportages & analytics | ⏳ te vullen |
 
 De modules worden aangevuld met praktijktips; die worden eerst verzameld in [`tips/tips-log.md`](tips/tips-log.md).
