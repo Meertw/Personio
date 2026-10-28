@@ -19,7 +19,7 @@
 | 4.3 | Vaste wervingsfases (pipeline) zijn ingericht en worden consistent gebruikt | | | | |
 | 4.4 | Recruiters en hiring managers werken vanuit het applications-overzicht in plaats van losse cv's | | | | |
 | 4.5 | De belangrijkste kandidaatinformatie (bijv. knock-outvragen, beschikbaarheid, salarisindicatie) staat in het overzicht | | | | |
-| 4.6 | Standaard e-mailtemplates voor ontvangst, afwijzing en uitnodiging worden gebruikt | | | | |
+| 4.6 | E-mailtemplates (ontvangst, uitnodiging, afwijzing) zijn ingericht en worden in bulk verstuurd naar een gefilterde selectie kandidaten, in plaats van handmatig per kandidaat | | | | |
 | 4.7 | Hiring managers hebben alleen toegang tot de kandidaten van hun eigen vacatures | | | | |
 | 4.8 | Bewaartermijnen en verwijderen van kandidaatgegevens zijn ingericht (AVG) | | | | |
 | 4.9 | De views in de linkerkolom zijn aangepast op wat voor het bedrijf belangrijk is, en er worden filters op kandidaten gebruikt | | | | |
@@ -41,12 +41,14 @@
 - [ ] Aantal open jobs vs. goedgekeurde posities in de planning
 - [ ] Jobs zonder activiteit in de laatste 30 dagen
 - [ ] Applications die langer dan X dagen in dezelfde fase staan
+- [ ] Aantal actieve e-mailtemplates en of er handmatig verstuurde e-mails zijn
 - [ ] Vacatures met en zonder Signals-profiel
 - [ ] Verdeling van matchscores vs. uitkomst (uitgenodigd / aangenomen / afgewezen)
 
 ## Veelvoorkomende hiaten
 
 - De standaard views worden gebruikt, terwijl ze niet aansluiten op wat het bedrijf belangrijk vindt
+- E-mails naar kandidaten worden handmatig, één voor één verstuurd
 - Cv's worden één voor één geopend in plaats van via het applications-overzicht
 - Pipeline-fases verschillen per vacature, waardoor rapportages niet kloppen
 - AI Signals is beschikbaar maar niet in gebruik, of profielen zijn te algemeen
@@ -57,11 +59,13 @@
 
 - Gebruik het **jobs-overzicht** als startpunt en ga van daaruit naar de **applications-kant**. Daar zie je de informatie van alle kandidaten in één overzicht, wat **minder cv-review** kost.
 - Pas in de Recruiting-module in de **linkerkolom de views** aan naar wat jullie als bedrijf belangrijk vinden, en **filter op kandidaten**. Zo zie je direct de juiste kandidaten en informatie.
+- Maak **e-mailtemplates** en verstuur ze **in bulk** naar meerdere kandidaten tegelijk. **Filter** eerst waar nodig (bijv. op fase of vacature). Dit vervangt het handmatig versturen van e-mails.
 - **AI Signals**: maak in Signals een **profiel** van de gewenste kandidaat. Iedere kandidaat krijgt dan een **match in procenten** op basis van dat profiel: een **overall score**.
 
 ## Opleverpunten voor de klant
 
-- Advies voor een standaard wervingspipeline en templates
+- Advies voor een standaard wervingspipeline
+- Set e-mailtemplates (ontvangst, uitnodiging, afwijzing) + werkwijze voor bulkverzending
 - Voorstel voor standaard views (linkerkolom) en filters op kandidaten
 - Opzet Signals-profielen per vacature of job family
 - Korte werkinstructie voor recruiters en hiring managers: werken vanuit het overzicht en omgaan met matchscores
