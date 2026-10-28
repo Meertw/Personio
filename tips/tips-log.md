@@ -16,3 +16,4 @@ Verzamelplek voor praktijktips over Personio. Elke tip wordt later verwerkt in d
 | 2026-10-28 | 05 / 14 | Wil je iets voor rapportagedoeleinden, zoals uren ouderschapsverlof voor analytics? Voeg het toe als attribuut en haal het op in Reporting. | `quickscan/05-medewerkersattributen-en-datakwaliteit.md` |
 | 2026-10-28 | 05 | Eigen attributen (custom fields) kun je per entiteit zichtbaar maken. | `quickscan/05-medewerkersattributen-en-datakwaliteit.md` |
 | 2026-10-28 | 09 | Onboarding na de hire: pas een onboardingtemplate toe, zet deadlines op de onboardingtaken en stel herinneringen in als die niet worden gehaald. | `quickscan/08-on-en-offboarding.md` |
+| 2026-10-28 | 07 | Time off: geef toegang tot verlofregelingen op basis van de entiteit. Maak een workflow die ziekmeldingen in het systeem signaleert en waarmee je patronen kunt zien. | `quickscan/07-verlof-en-verzuim.md` |
