@@ -27,7 +27,7 @@
 | 4.11 | De agenda's (bijv. Outlook/Microsoft 365 of Google) zijn gekoppeld, zodat interviews direct in de agenda van de hiring manager worden ingepland | | | | |
 | 4.12 | De aanbiedingsbrief wordt via het systeem gemaakt vanuit een documenttemplate met de kandidaatgegevens, en digitaal ondertekend via DocuSign | | | | |
 | 4.13 | Ondertekende documenten uit het wervingsproces worden na ondertekening naar het medewerkersprofiel gezet (niet handmatig opgeslagen) | | | | |
-| 4.14 | De kandidaat wordt in het systeem "aangenomen" (hire), waarna automatisch een medewerkersprofiel wordt aangemaakt zonder dubbele invoer; dit is de start voor onboarding (module 08) | | | | |
+| 4.14 | De kandidaat wordt in het systeem "aangenomen" (hire), waarna automatisch een medewerkersprofiel wordt aangemaakt zonder dubbele invoer; dit is de start voor onboarding (module 09) | | | | |
 
 ### AI Signals
 

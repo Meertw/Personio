@@ -22,7 +22,7 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 06 | [Rollen & rechten](quickscan/06-rollen-en-rechten.md) | ✅ concept |
 | 07 | Verlof & verzuim | ⏳ te vullen |
 | 08 | Tijdregistratie | ⏳ te vullen |
-| 09 | On- en offboarding workflows | ⏳ te vullen |
+| 09 | [On- en offboarding](quickscan/09-on-en-offboarding.md) | ✅ onboarding concept, offboarding te vullen |
 | 10 | Documenten & templates | ⏳ te vullen |
 | 11 | Performance & development | ⏳ te vullen |
 | 12 | Compensatie & salarishuizen | ⏳ te vullen |

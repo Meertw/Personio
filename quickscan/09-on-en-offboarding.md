@@ -1,4 +1,4 @@
-# 08 – On- en offboarding
+# 09 – On- en offboarding
 
 > **Aansluiting:** in module 04 wordt de kandidaat in het systeem aangenomen (hire), en daarmee wordt automatisch een medewerkersprofiel aangemaakt. Daarna begint de **onboarding**: je past een **onboardingtemplate** toe, de taken krijgen **deadlines** en er gaan **herinneringen** uit als een taak niet op tijd is afgerond.
 
@@ -30,16 +30,16 @@ Alle taken afgerond → onboarding compleet
 
 | # | Controlepunt | Score (0-3) | Bevinding | Advies | Prio |
 |---|--------------|-------------|-----------|--------|------|
-| 8.1 | Onboarding start automatisch vanuit de hire in Recruiting (module 04), zonder handmatige tussenstap | | | | |
-| 8.2 | Er zijn onboardingtemplates ingericht en die worden bij elke nieuwe medewerker toegepast | | | | |
-| 8.3 | Er zijn verschillende templates waar nodig (bijv. per entiteit, afdeling, functie of land) | | | | |
-| 8.4 | Elke taak heeft een vaste eigenaar (rol, niet een persoon), zodat de taak niet blijft liggen bij vertrek of afwezigheid | | | | |
-| 8.5 | Taken hebben een deadline, gerekend vanaf de startdatum (vóór, op en na de eerste werkdag) | | | | |
-| 8.6 | Er gaan herinneringen uit als een taak niet op tijd is afgerond | | | | |
-| 8.7 | Bij langdurig openstaande taken is er een escalatie (bijv. naar HR of de manager) | | | | |
-| 8.8 | De nieuwe medewerker heeft vóór de startdatum al toegang tot de relevante taken/documenten (preboarding) | | | | |
-| 8.9 | Documenten die nog getekend of aangeleverd moeten worden (bijv. ID, loonheffingsformulier) zitten als taak in de onboarding | | | | |
-| 8.10 | HR heeft een overzicht van de status van alle lopende onboardings | | | | |
+| 9.1 | Onboarding start automatisch vanuit de hire in Recruiting (module 04), zonder handmatige tussenstap | | | | |
+| 9.2 | Er zijn onboardingtemplates ingericht en die worden bij elke nieuwe medewerker toegepast | | | | |
+| 9.3 | Er zijn verschillende templates waar nodig (bijv. per entiteit, afdeling, functie of land) | | | | |
+| 9.4 | Elke taak heeft een vaste eigenaar (rol, niet een persoon), zodat de taak niet blijft liggen bij vertrek of afwezigheid | | | | |
+| 9.5 | Taken hebben een deadline, gerekend vanaf de startdatum (vóór, op en na de eerste werkdag) | | | | |
+| 9.6 | Er gaan herinneringen uit als een taak niet op tijd is afgerond | | | | |
+| 9.7 | Bij langdurig openstaande taken is er een escalatie (bijv. naar HR of de manager) | | | | |
+| 9.8 | De nieuwe medewerker heeft vóór de startdatum al toegang tot de relevante taken/documenten (preboarding) | | | | |
+| 9.9 | Documenten die nog getekend of aangeleverd moeten worden (bijv. ID, loonheffingsformulier) zitten als taak in de onboarding | | | | |
+| 9.10 | HR heeft een overzicht van de status van alle lopende onboardings | | | | |
 
 ### Datacheck
 
