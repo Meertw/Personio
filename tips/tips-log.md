@@ -21,3 +21,4 @@ Verzamelplek voor praktijktips over Personio. Elke tip wordt later verwerkt in d
 | 2026-10-28 | 12 | De compensatiemodule helpt om equal pay te verbeteren. Je kunt er sales commissies in kwijt, en met filters naar keuze kun je de compensatie vergelijken. | `quickscan/12-compensatie.md` |
 | 2026-10-28 | 12 | Gender equal pay kun je via de compensatiemodule verhogen. | `quickscan/12-compensatie.md` |
 | 2026-10-28 | 14 | Module analytics: adviseer klanten op basis van de rapportages die onze klanten het meest gebruiken. | `quickscan/14-rapportages-en-analytics.md` |
+| 2026-10-28 | 15 | De Assistant kan het personeelshandboek uit SharePoint gebruiken. Haal de informatie daaruit binnen, zodat HR het kan opvragen. | `quickscan/15-personio-assistant.md` |

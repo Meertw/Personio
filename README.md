@@ -28,6 +28,7 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 12 | [Compensatie](quickscan/12-compensatie.md) | ✅ concept |
 | 13 | [Payroll & integraties](quickscan/13-payroll-en-integraties.md) | ✅ concept |
 | 14 | [Rapportages & analytics](quickscan/14-rapportages-en-analytics.md) | ✅ concept |
+| 15 | [Personio Assistant (AI)](quickscan/15-personio-assistant.md) | ✅ concept |
 
 Elke module heeft twee soorten tips:
 
