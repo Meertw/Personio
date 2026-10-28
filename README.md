@@ -18,8 +18,8 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 02 | [Workforce planning & recruiting](quickscan/02-workforce-planning-en-recruiting.md) | ✅ concept |
 | 03 | Organisatiestructuur (entiteiten, afdelingen, teams, vestigingen, kostenplaatsen) | ⏳ te vullen |
 | 04 | [Recruiting: jobs, applications & AI Signals](quickscan/04-recruiting-jobs-applications-ai-signals.md) | ✅ concept |
-| 05 | Medewerkersattributen & datakwaliteit | ⏳ te vullen |
-| 06 | Rollen & rechten | ⏳ te vullen |
+| 05 | [Medewerkersattributen & datakwaliteit](quickscan/05-medewerkersattributen-en-datakwaliteit.md) | ✅ concept |
+| 06 | [Rollen & rechten](quickscan/06-rollen-en-rechten.md) | ✅ concept |
 | 07 | Verlof & verzuim | ⏳ te vullen |
 | 08 | Tijdregistratie | ⏳ te vullen |
 | 09 | On- en offboarding workflows | ⏳ te vullen |
