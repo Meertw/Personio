@@ -15,7 +15,7 @@
 
 | # | Controlepunt | Score (0-3) | Bevinding | Advies | Prio |
 |---|--------------|-------------|-----------|--------|------|
-| 7.1 | Verlofregelingen zijn op basis van de entiteit toegewezen (niet handmatig per medewerker) | | | | |
+| 7.1 | Verlofregelingen zijn per entiteit ingericht en iedere medewerker heeft de regeling van zijn/haar entiteit; er is een vaste werkwijze voor toewijzing bij nieuwe medewerkers (Personio wijst niet automatisch toe op entiteit – zie Tips uit Personio Help) | | | | |
 | 7.2 | Verloftypes en regelingen sluiten aan op wetgeving, cao en arbeidsvoorwaarden per entiteit (bijv. wettelijke vs. bovenwettelijke vakantiedagen in NL) | | | | |
 | 7.3 | Opbouw, meenemen naar volgend jaar en vervaldatum zijn ingericht en kloppen | | | | |
 | 7.4 | Opbouw is pro rata ingericht voor parttimers en in-/uitdiensttreding in de loop van het jaar | | | | |
@@ -55,6 +55,16 @@
 
 - Geef toegang tot **verlofregelingen op basis van de entiteit**.
 - Maak een **workflow** die **ziekmeldingen signaleert** in het systeem en waarmee je **patronen** kunt zien.
+
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- **Let op:** er is **geen automatische toewijzing van verlofregelingen op basis van office of entiteit**. Opties: **Quick assign** (alleen bij één regeling per verloftype), toewijzen vanaf **startdatum** (met terugwerkende kracht, kan eerdere regelingen overschrijven) of een **bulkimport**. Leg dus een vaste werkwijze vast bij nieuwe medewerkers. ([bron](https://support.personio.de/hc/en-us/articles/30695472069917), [C](https://community.personio.com/personio-tips-best-practices-137/automatically-assigning-time-off-policies-for-newjoiner-5003))
+- Per verloftype stel je in: halve dagen, **vervanger** (uit / optioneel / verplicht), **verklaring/certificaat** en of **goedkeuring** nodig is. ([bron](https://developer.personio.de/changelog/absence-api-absence-type-configuration))
+- (C) Goedkeuringen kunnen **meerstaps** zijn (bijv. eerst leidinggevende, dan HR); de stappen lopen na elkaar. ([bron](https://community.personio.com/employee-roles-approvals-88/absences-approval-workflow-2157))
+- (C) **Meenemen naar volgend jaar** stel je in bij de opbouwregeling (vervaltermijn in maanden). Een regeling die al is toegewezen kun je niet direct aanpassen. Meegenomen dagen worden eerst opgemaakt. ([bron](https://community.personio.com/time-off-attendance-87/ablaufdatum-urlaubsanspruch-aendern-3504))
+- (C) **Workflows** kunnen starten bij het aanmaken van een afwezigheid, met voorwaarden (bijv. langer dan N dagen), en sturen meldingen of taken. Let op: losse dagen triggeren elk apart, aaneengesloten dagen één keer. Een signaal bij bijv. de 3e ziekmelding in 12 maanden is genoemd als mogelijkheid – test dit bij de klant. ([bron](https://community.personio.com/time-off-attendance-87/workflow-creation-sickness-absence-instances-5021))
 
 ## Opleverpunten voor de klant
 

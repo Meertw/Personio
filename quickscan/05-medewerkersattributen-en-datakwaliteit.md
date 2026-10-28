@@ -18,7 +18,7 @@
 | 5.4 | Waar wijzigingen in de tijd belangrijk zijn (functie, salaris, uren) wordt historie bijgehouden met ingangsdatum | | | | |
 | 5.5 | Er zijn eigen attributen toegevoegd voor rapportage- en analysedoelen (bijv. uren ouderschapsverlof) | | | | |
 | 5.6 | Deze eigen attributen zijn ook echt op te halen en worden gebruikt in Reporting / Analytics | | | | |
-| 5.7 | Eigen attributen zijn per entiteit zichtbaar gemaakt waar dat nodig is (bijv. een veld dat alleen voor de NL-entiteit of één bv geldt), zodat medewerkers van andere entiteiten geen irrelevante velden zien | | | | |
+| 5.7 | Eigen attributen zijn per entiteit zichtbaar gemaakt waar dat nodig is (bijv. een veld dat alleen voor de NL-entiteit of één bv geldt), zodat medewerkers van andere entiteiten geen irrelevante velden zien (let op: dit regelt alleen de weergave, niet de rechten – zie module 06) | | | | |
 | 5.8 | Er is een eigenaar en een proces voor het toevoegen of aanpassen van attributen | | | | |
 | 5.9 | Attributen die naar payroll of andere systemen gaan, sluiten aan op de integratie (module 13) | | | | |
 
@@ -41,6 +41,16 @@
 
 - Wil je iets meenemen voor **rapportagedoeleinden**, bijvoorbeeld **uren ouderschapsverlof** voor analytics? **Voeg het toe als attribuut** en haal het daarna op in **Reporting**.
 - **Eigen attributen** kun je **per entiteit zichtbaar** maken. Handig als een klant meerdere entiteiten of landen heeft, met verschillende velden per entiteit (bijv. land-specifieke payrollgegevens).
+
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Attribuuttypes: tekst (max. 2.000 tekens), meerregelige tekst, link, datum (met herinneringen), getal (2 decimalen), keuzelijst, meerkeuze en tags. **Het type kun je achteraf niet wijzigen** – kies vooraf goed. Optie **'must be unique'** bijv. voor personeelsnummer. ([bron](https://support.personio.de/hc/en-us/articles/208861829))
+- Wijzigingen kunnen **direct, met terugwerkende kracht of gepland** worden doorgevoerd (geplande wijziging om 03:00 op de gekozen datum). Met **'Set as temporary change'** zet je een waarde later automatisch terug. Advies: de startdatum niet met terugwerkende kracht wijzigen. ([bron](https://support.personio.de/hc/en-us/articles/213331029))
+- **Attributen per juridische entiteit** veranderen alleen de **weergave** van het profiel, **niet de rechten**: de attributen blijven zichtbaar in rapportages en de People List. Combineer daarom met rechten (module 06). ([bron](https://support.personio.de/hc/en-us/articles/115002699585))
+- (C) De Employee API geeft **geen attribuuthistorie** terug – relevant voor koppelingen en datachecks via API. ([bron](https://community.personio.com/employee-data-documents-86/employee-api-retro-active-changes-not-available-5486))
+- Medewerkers importeren via **Settings > Organization > Imports**; de import faalt als je geen edit-rechten hebt op een van de kolommen. ([bron](https://support.personio.de/hc/en-us/articles/115002699585))
 
 ## Opleverpunten voor de klant
 

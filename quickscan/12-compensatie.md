@@ -47,6 +47,14 @@
 - **Gender equal pay** kun je via de compensatiemodule **verhogen**: maak het verschil tussen mannen en vrouwen zichtbaar en corrigeer het met gerichte salarisverhogingen.
 - Zet de **filters** die je wilt om de **compensatie** te **vergelijken**.
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Richt **job architecture en salarisbanden** in vóór een compensatiecyclus, anders is er geen banddata. Leidinggevenden doen voorstellen binnen budget, goedkeuring gaat via de hiërarchie, en admins sluiten de cyclus af en zetten de bedragen in de profielen. ([bron](https://support.personio.de/hc/en-us/articles/13929161963677))
+- In **Analytics** staat een rapporttemplate **Gender pay gap**, opgezet volgens de EU-richtlijn. Het rapport gebruikt het **Salary-tabblad** (niet de Payroll- of Compensation-app), negeert eigen compensatieattributen en gebruikt het attribuut Geslacht. Zorg dus dat het Salary-tabblad volledig is. ([bron](https://support.personio.de/hc/en-us/articles/34905268434717))
+- **Variabele beloning / bonussen** (maand, kwartaal, halfjaar, jaar) worden handmatig of via import in de salaristabel ingevoerd; doelbonussen kunnen aan performance-doelen gekoppeld worden. Een aparte commissiefunctie is in de helpcenter-bronnen niet gevonden – check bij de klant hoe sales commissies nu worden ingericht. ([bron](https://support.personio.de/hc/en-us/articles/360000406409))
+
 ## Opleverpunten voor de klant
 
 - Overzicht van salarisbanden per job family en level (of advies om ze op te stellen)

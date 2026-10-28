@@ -78,6 +78,19 @@
 - **Neem de kandidaat aan in het systeem** (hire). Er wordt dan **automatisch een medewerkersprofiel aangemaakt**.
 - **AI Signals**: maak in Signals een **profiel** van de gewenste kandidaat. Iedere kandidaat krijgt dan een **match in procenten** op basis van dat profiel: een **overall score**.
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- De **Application List** (Recruiting > Applications) toont sollicitaties over alle jobs heen: kolommen instellen, filteren, **standaard- en eigen views opslaan** en **bulkacties**. Let op: views uit de algemene lijst verschijnen niet in de lijst per job. ([bron](https://support.personio.de/hc/en-us/articles/22482233171997))
+- Maak **zoveel e-mailtemplates als je wilt**, bijv. per fase (ontvangst, uitnodiging, aanbod), met placeholders zoals `{{first_name}}` en `{{position_name}}` – typ placeholders in, niet plakken. Recruiting-templates zijn niet herbruikbaar in on/offboarding. ([bron](https://support.personio.de/hc/en-us/articles/360000983217))
+- (C) Bij **bulkmail** ontvangt iedere kandidaat de mail alsof hij de enige ontvanger is. Test placeholders in bulkmails vooraf. ([bron](https://community.personio.com/recruiting-29/bulk-email-how-does-it-work-1406))
+- **Agendakoppeling** loopt via **Cronofy** (Google, Office 365, Exchange): beschikbaarheid van deelnemers en ruimtes, automatische Zoom/Meet/Teams-links, interviews komen in de agenda van de deelnemers. Inrichten door een admin samen met IT. ([bron](https://support.personio.de/hc/en-us/articles/208508489))
+- **Aanbod met e-signature via DocuSign**: start vanuit een contracttemplate met handtekening-placeholders, zet de kandidaat altijd als ondertekenaar. Per aanbod kan **één contract** worden verstuurd; extra documenten na aanmaak van het medewerkersprofiel. ([bron](https://support.personio.de/hc/en-us/articles/360011161297))
+- Bij status **Hired** wordt het medewerkersprofiel gevuld met o.a. naam, geslacht, geboortedatum, office, afdeling, positie en juridische entiteit. **Niet** overgenomen: verwachte salaris, kanaal en beschikbaarheid. Check welke eigen kandidaatattributen meegaan. ([bron](https://support.personio.de/hc/en-us/articles/115005286625))
+- **AI Signals** horen bij de **Talent Screening Agent**: criteria zoals locatie, taal, jaren ervaring, opleiding en een vrije prompt, zelf geschreven of door AI voorgesteld. De score geldt alleen voor die criteria en is **adviserend**. Gebruik **geen beschermde kenmerken of afgeleiden** (zoals afstudeerjaar). Elke screening kost **AI-credits**. De klant is onder de EU AI Act de **deployer**. ([bron](https://support.personio.de/hc/en-us/articles/37951608749981), [productpagina](https://www.personio.com/feature/talent-screening-agent/))
+- (C) **Automatisch anonimiseren** van kandidaten staat onder Settings > Recruiting > Data privacy settings en geldt voor alle vacatures; staat het uit, dan moet je handmatig anonimiseren. ([bron](https://community.personio.com/personio-tips-best-practices-137/has-anyone-cracked-the-data-retention-conundrum-for-candidates-4988))
+
 ## Opleverpunten voor de klant
 
 - Advies voor een standaard wervingspipeline

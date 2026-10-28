@@ -64,6 +64,17 @@ Reviews delen met de medewerker → gesprek → nieuwe doelen
 - **Plan reviews** in met **automatische herinneringen**, zodat je reviewers niet meer zelf hoeft na te jagen.
 - **Peer reviewers**: voeg ze **handmatig per medewerker** toe, of voeg een **afdeling of team** toe zodat de reviews **automatisch** worden toegewezen.
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Leidinggevenden maken doelen voor zichzelf en hun directe medewerkers; medewerkers alleen voor zichzelf. Elk doel heeft minimaal één **subdoel** (percentage, waarde of ja/nee). ([bron](https://support.personio.de/hc/en-us/articles/17320113743133))
+- **Organisatiedoelen** beheer je op één plek en koppel je aan meerdere medewerkerdoelen; voortgang op het organisatiedoel werkt de gekoppelde doelen bij. ([bron](https://support.personio.de/hc/en-us/sections/5191950000285-Goals))
+- Cycli kunnen bestaan uit manager-, zelf-, peer- en upward reviews; formuliertemplates staan onder Settings > Performance & Development > Form templates (C). ([bron](https://community.personio.com/performance-development-89/performance-review-templates-report-1301))
+- **Peer reviewers**: HR nomineert ze, of deelnemers kiezen ze zelf. Nomineren geeft HR volledige controle. ([bron](https://community.personio.com/product-updates/new-in-personio-peer-review-842))
+- **Herinneringen**: deelnemers krijgen X dagen vóór de deadline een Inbox-herinnering, genomineerde reviewers een e-mail. (C) Herinneringen zelf inplannen kan niet; tip: dupliceer een eerdere cyclus en start die opnieuw. ([bron](https://support.personio.de/hc/en-us/articles/14223956802717))
+- **Delen**: medewerkers zien alleen wat met hen gedeeld is. Blijft een managerreview verborgen, gebruik dan 'Share manager reviews' in de cyclus. **Peer reviews zijn altijd zichtbaar voor de leidinggevende, inclusief naam van de reviewer** – communiceer dit vooraf. ([bron](https://support.personio.de/hc/en-us/articles/27494825027869), [C](https://community.personio.com/performance-development-89/peer-review-visibility-3098))
+
 ## Opleverpunten voor de klant
 
 - Doelenstructuur: organisatiedoelen → individuele doelen

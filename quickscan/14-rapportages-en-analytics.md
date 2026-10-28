@@ -55,6 +55,15 @@ _Deze lijst wordt aangevuld en aangescherpt met de rapportages die onze klanten 
 
 - Adviseer klanten op basis van de **rapportages die onze klanten het meest gebruiken** (zie adviesset hierboven).
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- **Analytics** heeft een tabblad **Metrics** (widgets) en een tabblad **Reports** met de **Report Builder** (plus de oudere Classic Builder). Vereist Admin- of Reports-edit-rechten en een Core-abonnement. Advies: zet oude Classic-rapporten om naar de Report Builder. ([bron](https://support.personio.de/hc/en-us/articles/15717723889437))
+- Admins kunnen **een losse rapportage delen** met specifieke medewerkers (Sharing options), zonder dat zij toegang krijgen tot alle rapportages – handig voor MT of finance. ([bron](https://community.personio.com/product-updates/new-in-personio-sharing-individual-custom-reports-656))
+- Met de **Custom Reports API** (Professional/Enterprise) haal je rapportdata als JSON op, bijv. voor een dashboard in Power BI. ([bron](https://community.personio.com/product-updates/the-custom-reports-api-is-now-available-1470))
+- Gebruik het standaardtemplate **Gender pay gap** in Analytics voor rapportage R12 (zie module 12). ([bron](https://support.personio.de/hc/en-us/articles/34905268434717))
+
 ## Opleverpunten voor de klant
 
 - Vergelijking: huidige rapportages vs. adviesset

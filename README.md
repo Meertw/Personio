@@ -16,17 +16,20 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 00 | [Intake](quickscan/00-intake.md) | ✅ concept |
 | 01 | [Job families & track levels](quickscan/01-job-families-en-track-levels.md) | ✅ concept |
 | 02 | [Workforce planning & recruiting](quickscan/02-workforce-planning-en-recruiting.md) | ✅ concept |
-| 03 | Organisatiestructuur (entiteiten, afdelingen, teams, vestigingen, kostenplaatsen) | ⏳ te vullen |
+| 03 | [Organisatiestructuur](quickscan/03-organisatiestructuur.md) | ✅ concept |
 | 04 | [Recruiting: jobs, applications & AI Signals](quickscan/04-recruiting-jobs-applications-ai-signals.md) | ✅ concept |
 | 05 | [Medewerkersattributen & datakwaliteit](quickscan/05-medewerkersattributen-en-datakwaliteit.md) | ✅ concept |
 | 06 | [Rollen & rechten](quickscan/06-rollen-en-rechten.md) | ✅ concept |
 | 07 | [Verlof & verzuim (Time off)](quickscan/07-verlof-en-verzuim.md) | ✅ concept |
-| 08 | Tijdregistratie | ⏳ te vullen |
-| 09 | [On- en offboarding](quickscan/09-on-en-offboarding.md) | ✅ onboarding concept, offboarding te vullen |
-| 10 | Documenten & templates | ⏳ te vullen |
+| 08 | [Tijdregistratie (Attendance)](quickscan/08-tijdregistratie.md) | ✅ concept |
+| 09 | [On- en offboarding](quickscan/09-on-en-offboarding.md) | ✅ concept |
+| 10 | [Documenten & templates](quickscan/10-documenten-en-templates.md) | ✅ concept |
 | 11 | [Performance & goals](quickscan/11-performance-en-goals.md) | ✅ concept |
 | 12 | [Compensatie](quickscan/12-compensatie.md) | ✅ concept |
-| 13 | Payroll & integraties | ⏳ te vullen |
+| 13 | [Payroll & integraties](quickscan/13-payroll-en-integraties.md) | ✅ concept |
 | 14 | [Rapportages & analytics](quickscan/14-rapportages-en-analytics.md) | ✅ concept |
 
-De modules worden aangevuld met praktijktips; die worden eerst verzameld in [`tips/tips-log.md`](tips/tips-log.md).
+Elke module heeft twee soorten tips:
+
+- **Praktijktips** – eigen ervaring uit klanttrajecten, eerst verzameld in [`tips/tips-log.md`](tips/tips-log.md).
+- **Tips uit Personio Help** – uit het Personio Help Center en de Personio Community, met bronlink. Tips gemarkeerd met (C) komen uit de community en zijn geen officiële documentatie. Controleer menupaden en abonnementsvereisten bij de klant.

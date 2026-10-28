@@ -41,6 +41,15 @@
 - Je kunt **medewerkers beperken** in het **bijwerken van informatie** en in plaats daarvan laten werken met **wijzigingen voorstellen**.
 - **Rollen en rechten** kun je **echt per attribuut** aanpassen.
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Per sectie zijn er drie toegangsniveaus: **View**, **Propose** (wijziging gaat via goedkeuring) en **Edit** (direct, zonder goedkeuring). **Let op:** als er geen goedkeuringsproces aan Propose hangt, wordt de wijziging direct opgeslagen. ([bron](https://support.personio.de/hc/en-us/articles/36539231813661))
+- Per recht stel je een **scope** in, zoals **Own** (eigen profiel) of **Reporting line** (op basis van de primaire leidinggevende, standaard inclusief indirecte medewerkers). Personio waarschuwt bij toegang tot gevoelige data. ([bron](https://support.personio.de/hc/en-us/articles/29339334542109))
+- Alleen **Administrators** kunnen rollen en rechten instellen – houd het aantal admins klein. ([bron](https://support.personio.de/hc/en-us/articles/115005971085))
+- Goedkeuringen voor voorgestelde wijzigingen richt je in onder **Automations > Workflows > Approvals**, met leidinggevenden of rollen als goedkeurder. ([bron](https://support.personio.de/hc/en-us/articles/360000905085))
+
 ## Opleverpunten voor de klant
 
 - Rollen- en rechtenmatrix: rol × attribuut (zien / wijzigen / voorstellen)

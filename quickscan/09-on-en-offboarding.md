@@ -61,6 +61,16 @@ Alle taken afgerond → onboarding compleet
 - Zet **deadlines** op de onboardingtaken.
 - Stel **herinneringen** in voor als een taak niet op tijd is afgerond.
 
+### Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Bouw eerst de **stappen**, combineer ze daarna tot **templates**. Drie staptypes: algemene stap, e-mailactie en e-mailuitnodiging. Een e-mailactie kan handmatig, op een datum of automatisch na eerdere stappen worden verstuurd. ([bron](https://support.personio.de/hc/en-us/articles/115002529589))
+- Elke stap heeft een **deadline**. (C) Melding + Inbox-taak **7 dagen** vóór de deadline, herinnering **2 dagen** vóór de deadline. ([bron](https://community.personio.com/employee-data-documents-86/automatically-send-out-reminders-3252))
+- Meldingen werken alleen als het profiel een **startdatum** (of einddatum bij offboarding) heeft. **Ander template toewijzen wist de al ingevulde gegevens.** ([bron](https://support.personio.de/hc/en-us/articles/115002586245))
+- (C) **Preboarding**: nodig de nieuwe medewerker vóór de startdatum uit via een privé-mailadres en zet dit later om naar het werkadres. Houd de rol 'All employees' minimaal en test eerst met een dummyprofiel. Let op: Google SSO blokkeert inloggen vóór de startdatum. ([bron](https://community.personio.com/hr-management-3/pre-onboarding-624))
+- Workflows (Automations > Workflows) verschijnen **niet** in de onboarding-overzichtswidgets – houd onboardingtaken in de on/offboarding-templates. ([bron](https://support.personio.de/hc/en-us/articles/16606744442397))
+
 ### Opleverpunten voor de klant
 
 - Set onboardingtemplates (per entiteit / afdeling / functie waar nodig)
@@ -68,5 +78,22 @@ Alle taken afgerond → onboarding compleet
 - Procesplaat hire → onboarding → afgerond
 
 ## Offboarding
+
+### Controlepunten
+
+| # | Controlepunt | Score (0-3) | Bevinding | Advies | Prio |
+|---|--------------|-------------|-----------|--------|------|
+| 9.11 | Er is een offboardingtemplate met taken, eigenaren en deadlines (bijv. laptop inleveren, accounts blokkeren, eindafrekening) | | | | |
+| 9.12 | Offboarding start na het vastleggen van de uitdienstdatum (beëindiging dienstverband) | | | | |
+| 9.13 | Verlofsaldo en andere eindafrekeningen gaan naar payroll (module 13) | | | | |
+| 9.14 | Reden uit dienst wordt vastgelegd voor verlooprapportages (module 14) | | | | |
+| 9.15 | Bewaartermijnen voor documenten van ex-medewerkers zijn ingericht (module 10) | | | | |
+
+### Tips uit Personio Help
+
+- Voor offboarding **beëindig je eerst het dienstverband**; daarna zie je per stap de eigenaar, deadline en status. ([bron](https://support.personio.de/hc/en-us/articles/115002586245))
+- Meldingen werken alleen als het profiel een einddatum heeft. ([bron](https://support.personio.de/hc/en-us/articles/115002586245))
+
+### Praktijktips
 
 _Wordt aangevuld vanuit [`tips/tips-log.md`](../tips/tips-log.md)._

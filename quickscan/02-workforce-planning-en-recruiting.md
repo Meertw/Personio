@@ -61,6 +61,15 @@ Werving & selectie → aanname → medewerker koppelen aan geplande positie
 - Begin bij de **planning van de vacature**, niet in Recruiting. Zet daar een **approval workflow via de hogere lijn** op en **push** de positie pas na goedkeuring naar Recruiting.
 - Neem **headcount en kosten** mee in de planning, zodat de goedkeurder het besluit op basis van budget neemt.
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Richt eerst de **job architecture** (module 01) en het tabblad **Positions** in; die zijn voorwaarde voor **Planning Cycles**. ([bron](https://support.personio.de/hc/en-us/articles/18700952378781))
+- Vanuit **Positions** stuur je een open positie naar de **Recruiting**-app om te gaan werven. Statussen: open, filled, archived. ([bron](https://support.personio.de/hc/en-us/articles/18700952378781))
+- Headcount-plannen gaan door een **goedkeuringsketen** met minimaal één reviewer en een final approver; goedkeurders krijgen een melding in hun Inbox. **Planning Cycles vereist het Core Pro-abonnement** – check dit in de intake. ([bron](https://support.personio.de/hc/en-us/articles/22605893471517))
+- (C) Een losse aanvraag van een manager voor één nieuwe rol met goedkeuring vóór recruiting was in 2025 niet standaard; dit werd opgelost met custom approval workflows. Controleer of dit inmiddels anders is. ([bron](https://community.personio.com/recruiting-29/how-to-setup-workflow-for-managers-to-raise-a-role-requests-and-approval-process-4354))
+
 ## Opleverpunten voor de klant
 
 - Procesplaat: planning → goedkeuring → recruiting → aanname

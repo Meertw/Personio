@@ -45,6 +45,15 @@
 
 _Wordt aangevuld vanuit [`tips/tips-log.md`](../tips/tips-log.md)._
 
+## Tips uit Personio Help
+
+_Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
+
+- Elke job heeft verplicht een **naam, job family, track en level**. Job catalog, global grade en salarisband zijn optioneel. Tracks en levels vallen onder een **global grade**, die senioriteit koppelt aan salarisbanden. ([bron](https://support.personio.de/hc/en-us/articles/29562439967133))
+- Inrichten via **Settings > Jobs & Careers > Job catalog** (Administrator of edit-rechten nodig). ([bron](https://support.personio.de/hc/en-us/articles/29562439967133))
+- Het oude attribuut **Position** werkt nog, maar Personio adviseert over te stappen op de nieuwe **job architecture** voor consistente data. Controleer bij de klant of zij nog op Position werken. ([bron](https://support.personio.de/hc/en-us/articles/18287573633053))
+- **Career frameworks** bouwen voort op jobs en leggen competenties en verwachtingen per job vast; handig als basis voor performance (module 11). ([bron](https://support.personio.de/hc/en-us/articles/29562439967133))
+
 ## Opleverpunten voor de klant
 
 - Overzicht job families × tracks × levels (matrix)
