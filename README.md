@@ -27,6 +27,6 @@ Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving complee
 | 11 | [Performance & goals](quickscan/11-performance-en-goals.md) | ✅ concept |
 | 12 | [Compensatie](quickscan/12-compensatie.md) | ✅ concept |
 | 13 | Payroll & integraties | ⏳ te vullen |
-| 14 | Rapportages & analytics | ⏳ te vullen |
+| 14 | [Rapportages & analytics](quickscan/14-rapportages-en-analytics.md) | ✅ concept |
 
 De modules worden aangevuld met praktijktips; die worden eerst verzameld in [`tips/tips-log.md`](tips/tips-log.md).
