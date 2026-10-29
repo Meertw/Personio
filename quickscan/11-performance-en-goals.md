@@ -39,7 +39,9 @@ Reviews delen met de medewerker → gesprek → nieuwe doelen
 | 11.9 | Reviewcycli worden gepland in Personio, met vaste momenten (bijv. halfjaar- en jaargesprek) | | | | |
 | 11.10 | Er gaan automatische herinneringen uit naar reviewers, zodat HR niet zelf iedereen hoeft na te jagen | | | | |
 | 11.11 | Peer reviewers worden handmatig per medewerker toegevoegd, of automatisch via een afdeling of team | | | | |
-| 11.12 | HR heeft een overzicht van de voortgang van een reviewcyclus (ingevuld / openstaand) | | | | |
+| 11.12 | Deelnemers aan reviewcycli worden toegevoegd met **dynamische inclusieregels** (Dynamic Cycle Builder, bijv. op afdeling of hele organisatie), zodat nieuwe medewerkers automatisch in een open cyclus komen | | | | |
+| 11.13 | Er is een oplossing voor individuele reviewmomenten (bijv. proeftijdgesprek 3 maanden na start), want die starten niet automatisch per medewerker | | | | |
+| 11.14 | HR heeft een overzicht van de voortgang van een reviewcyclus (ingevuld / openstaand) | | | | |
 
 ## Datacheck
 
@@ -63,6 +65,14 @@ Reviews delen met de medewerker → gesprek → nieuwe doelen
 - Richt de **rechten in performance** goed in, en ook de **formulieren** en het **delen** van reviews.
 - **Plan reviews** in met **automatische herinneringen**, zodat je reviewers niet meer zelf hoeft na te jagen.
 - **Peer reviewers**: voeg ze **handmatig per medewerker** toe, of voeg een **afdeling of team** toe zodat de reviews **automatisch** worden toegewezen.
+
+## Antwoorden van Personio
+
+_Bron: schriftelijke antwoorden van Personio na de demosessie (oktober 2026)._
+
+- **Dynamic Cycle Builder**: in plaats van deelnemers handmatig te kiezen, stel je **dynamische inclusieregels** in (bijv. op afdeling of de hele organisatie). Nieuwe medewerkers die aan de criteria voldoen, worden **automatisch toegevoegd** aan een bestaande cyclus, zolang die open staat.
+- **Beperking**: individuele reviewschema's, zoals automatisch een **proeftijdgesprek 3 maanden na de startdatum**, worden niet ondersteund. Advies: los dit op met een onboardingtaak met deadline (module 09) of een workflow met een datumtrigger.
+- **Bonus op basis van doelrealisatie**: koppel een bonus aan een doel. Voorbeeld: doelbonus € 3.000, doel 80% gehaald → Personio berekent een **voorgestelde uitbetaling van € 2.400**, die HR of de manager bevestigt (zie module 12).
 
 ## Tips uit Personio Help
 

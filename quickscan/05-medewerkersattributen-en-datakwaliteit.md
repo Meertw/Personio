@@ -20,7 +20,8 @@
 | 5.6 | Deze eigen attributen zijn ook echt op te halen en worden gebruikt in Reporting / Analytics | | | | |
 | 5.7 | Eigen attributen zijn per entiteit zichtbaar gemaakt waar dat nodig is (bijv. een veld dat alleen voor de NL-entiteit of één bv geldt), zodat medewerkers van andere entiteiten geen irrelevante velden zien (let op: dit regelt alleen de weergave, niet de rechten – zie module 06) | | | | |
 | 5.8 | Er is een eigenaar en een proces voor het toevoegen of aanpassen van attributen | | | | |
-| 5.9 | Attributen die naar payroll of andere systemen gaan, sluiten aan op de integratie (module 13) | | | | |
+| 5.9 | De IBAN-validatie in het profiel wordt gebruikt en ongeldige IBAN's worden opgelost | | | | |
+| 5.10 | Attributen die naar payroll of andere systemen gaan, sluiten aan op de integratie (module 13) | | | | |
 
 ## Datacheck
 
@@ -41,6 +42,13 @@
 
 - Wil je iets meenemen voor **rapportagedoeleinden**, bijvoorbeeld **uren ouderschapsverlof** voor analytics? **Voeg het toe als attribuut** en haal het daarna op in **Reporting**.
 - **Eigen attributen** kun je **per entiteit zichtbaar** maken. Handig als een klant meerdere entiteiten of landen heeft, met verschillende velden per entiteit (bijv. land-specifieke payrollgegevens).
+
+## Antwoorden van Personio
+
+_Bron: schriftelijke antwoorden van Personio na de demosessie (oktober 2026)._
+
+- **IBAN-validatie**: Personio controleert in het medewerkersprofiel of een IBAN geldig is, markeert ongeldige invoer en helpt met de opmaak.
+- **Let op**: payrollproviders (bijv. Nmbrs) kunnen eigen validatieregels hebben. Een IBAN die Personio accepteert, wordt dus niet altijd door de payrollkoppeling geaccepteerd (zie module 13).
 
 ## Tips uit Personio Help
 

@@ -10,10 +10,11 @@
 | 13.2 | De voorlopige payroll (preliminary payroll) wordt elke periode goedgekeurd vóór de export | | | | |
 | 13.3 | Wijzigingen halverwege een periode worden correct verwerkt | | | | |
 | 13.4 | Payroll-attributen (module 05) zijn volledig en sluiten aan op het payrollsysteem | | | | |
-| 13.5 | Verlof, verzuim, overuren en variabele beloning gaan correct mee (modules 07, 08, 12) | | | | |
-| 13.6 | Overige koppelingen (SSO, IT, finance, LMS) zijn in kaart gebracht en hebben een eigenaar | | | | |
-| 13.7 | API-koppelingen hebben alleen toegang tot de attributen die ze nodig hebben | | | | |
-| 13.8 | Workflows (Automations) worden gebruikt om handwerk tussen systemen te verminderen | | | | |
+| 13.5 | Bekend is dat payrollproviders eigen validaties hebben (bijv. IBAN); fouten uit de payrollkoppeling worden teruggekoppeld en in Personio opgelost | | | | |
+| 13.6 | Verlof, verzuim, overuren en variabele beloning gaan correct mee (modules 07, 08, 12) | | | | |
+| 13.7 | Overige koppelingen (SSO, IT, finance, LMS) zijn in kaart gebracht en hebben een eigenaar | | | | |
+| 13.8 | API-koppelingen hebben alleen toegang tot de attributen die ze nodig hebben | | | | |
+| 13.9 | Workflows (Automations) worden gebruikt om handwerk tussen systemen te verminderen | | | | |
 
 ## Datacheck
 
@@ -26,6 +27,13 @@
 - Exporteren zonder de voorlopige payroll goed te keuren, waardoor wijzigingen verloren gaan
 - Gegevens dubbel ingevoerd in Personio en het payrollsysteem
 - API-credentials met te veel toegang, of zonder eigenaar
+
+## Antwoorden van Personio
+
+_Bron: schriftelijke antwoorden van Personio na de demosessie (oktober 2026)._
+
+- Een IBAN die Personio goedkeurt, kan door de payrollprovider alsnog worden afgekeurd: de provider kan eigen validatieregels hebben.
+- Bonussen op basis van doelrealisatie (module 12) kennen beperkingen bij het overzetten naar Personio Payroll; stem de werkwijze af op de payrollinrichting van de klant.
 
 ## Tips uit Personio Help
 

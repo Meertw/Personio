@@ -78,6 +78,13 @@
 - **Neem de kandidaat aan in het systeem** (hire). Er wordt dan **automatisch een medewerkersprofiel aangemaakt**.
 - **AI Signals**: maak in Signals een **profiel** van de gewenste kandidaat. Iedere kandidaat krijgt dan een **match in procenten** op basis van dat profiel: een **overall score**.
 
+## Antwoorden van Personio
+
+_Bron: schriftelijke antwoorden van Personio na de demosessie (oktober 2026)._
+
+- De **Talent Screening Agent** (AI Signals) beoordeelt kandidaten alleen op de eisen van de **vacature waarop ze hebben gesolliciteerd**. Hij kijkt **niet** of een kandidaat geschikt is voor **andere openstaande vacatures**.
+- **AI-talentpools en het terugvinden van eerdere kandidaten** worden intern onderzocht, maar er is geen bevestigde roadmap of datum. Advies aan klanten: wil je kandidaten voor een andere vacature overwegen, voeg ze dan zelf toe aan die vacature.
+
 ## Tips uit Personio Help
 
 _Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._

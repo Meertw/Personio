@@ -19,11 +19,13 @@
 | 12.4 | Met filters wordt compensatie vergeleken (bijv. job family, level, afdeling, entiteit, geslacht) | | | | |
 | 12.5 | Er wordt periodiek een equal-pay-analyse gedaan en verschillen worden opgevolgd | | | | |
 | 12.6 | De organisatie is voorbereid op de EU-richtlijn loontransparantie (functiearchitectuur, objectieve criteria, rapportage beloningskloof) | | | | |
-| 12.7 | Sales commissies zijn ingericht in Personio (regels, doelen, uitbetaling) in plaats van in Excel | | | | |
-| 12.8 | Commissies en ander variabel loon gaan correct naar payroll (module 13) | | | | |
-| 12.9 | Compensatiegegevens zijn alleen zichtbaar voor de rollen die ze nodig hebben (module 06) | | | | |
-| 12.10 | Salarisrondes / -verhogingen worden in Personio voorbereid en goedgekeurd | | | | |
-| 12.11 | Gevonden verschillen tussen mannen en vrouwen worden via de compensatiemodule gecorrigeerd, bijv. met gerichte salarisverhogingen in een salarisronde | | | | |
+| 12.7 | Variabele beloning en sales commissies staan in Personio (salaristabel / doelbonussen) in plaats van in Excel | | | | |
+| 12.8 | Doelbonussen zijn gekoppeld aan performance-doelen, zodat Personio de uitbetaling op basis van doelrealisatie voorstelt | | | | |
+| 12.9 | Er is een (tijdelijke) werkwijze voor managers die een bonus of commissie willen voorstellen, omdat Personio hier nog geen goedkeuringsworkflow voor heeft | | | | |
+| 12.10 | Commissies en ander variabel loon gaan correct naar payroll (module 13) | | | | |
+| 12.11 | Compensatiegegevens zijn alleen zichtbaar voor de rollen die ze nodig hebben (module 06) | | | | |
+| 12.12 | Salarisrondes / -verhogingen worden in Personio voorbereid en goedgekeurd | | | | |
+| 12.13 | Gevonden verschillen tussen mannen en vrouwen worden via de compensatiemodule gecorrigeerd, bijv. met gerichte salarisverhogingen in een salarisronde | | | | |
 
 ## Datacheck
 
@@ -47,13 +49,21 @@
 - **Gender equal pay** kun je via de compensatiemodule **verhogen**: maak het verschil tussen mannen en vrouwen zichtbaar en corrigeer het met gerichte salarisverhogingen.
 - Zet de **filters** die je wilt om de **compensatie** te **vergelijken**.
 
+## Antwoorden van Personio
+
+_Bron: schriftelijke antwoorden van Personio na de demosessie (oktober 2026)._
+
+- **Bonus op basis van doelrealisatie wordt ondersteund** via Performance & Development: bijv. doelbonus € 3.000, doel 80% gehaald → **voorgestelde uitbetaling € 2.400**. HR of de manager bevestigt het bedrag vóór verwerking.
+- **Let op bij payroll**: het overzetten van deze bedragen naar Personio Payroll heeft beperkingen; de werkwijze hangt af van de payrollinrichting van de klant (zie module 13).
+- **Geen goedkeuringsworkflow voor bonus/commissie door managers**: managers kunnen nu nog geen bonus- of commissiebedrag voorstellen dat HR of payroll goedkeurt. Dit wordt ontwikkeld als onderdeel van **Employment Change Workflows** (voorstel → goedkeuring → bedrag in compensatiegegevens). Nog geen releasedatum.
+
 ## Tips uit Personio Help
 
 _Bron: Personio Help Center en Personio Community (stand oktober 2026). (C) = community-bericht, geen officiële documentatie. Controleer menupaden in de eigen omgeving van de klant._
 
 - Richt **job architecture en salarisbanden** in vóór een compensatiecyclus, anders is er geen banddata. Leidinggevenden doen voorstellen binnen budget, goedkeuring gaat via de hiërarchie, en admins sluiten de cyclus af en zetten de bedragen in de profielen. ([bron](https://support.personio.de/hc/en-us/articles/13929161963677))
 - In **Analytics** staat een rapporttemplate **Gender pay gap**, opgezet volgens de EU-richtlijn. Het rapport gebruikt het **Salary-tabblad** (niet de Payroll- of Compensation-app), negeert eigen compensatieattributen en gebruikt het attribuut Geslacht. Zorg dus dat het Salary-tabblad volledig is. ([bron](https://support.personio.de/hc/en-us/articles/34905268434717))
-- **Variabele beloning / bonussen** (maand, kwartaal, halfjaar, jaar) worden handmatig of via import in de salaristabel ingevoerd; doelbonussen kunnen aan performance-doelen gekoppeld worden. Een aparte commissiefunctie is in de helpcenter-bronnen niet gevonden – check bij de klant hoe sales commissies nu worden ingericht. ([bron](https://support.personio.de/hc/en-us/articles/360000406409))
+- **Variabele beloning / bonussen** (maand, kwartaal, halfjaar, jaar) worden handmatig of via import in de salaristabel ingevoerd; doelbonussen kunnen aan performance-doelen gekoppeld worden. Een aparte commissiefunctie is niet gevonden; zie ook 'Antwoorden van Personio' hierboven. ([bron](https://support.personio.de/hc/en-us/articles/360000406409))
 
 ## Opleverpunten voor de klant
 
