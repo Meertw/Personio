@@ -2,6 +2,14 @@
 
 Quickscan-template om bij klanten te beoordelen of hun Personio-omgeving compleet en goed ingericht is, welke workflows geoptimaliseerd kunnen worden en waar hiaten zitten.
 
+## Documenten
+
+- [`aanpak.md`](aanpak.md) – het proces: hoe een klant door de quickscan gaat (fases, sessies, checklist)
+- [`privacy.md`](privacy.md) – privacyprotocol voor werken in de Personio-omgeving van een klant
+- [`scoresheet/`](scoresheet/) – Excel-scoresheet (template + voorbeeld)
+
+> ⚠️ Zet nooit klantgegevens in deze repository. Bewaar ingevulde scoresheets in de beveiligde klantmap.
+
 ## Hoe gebruik je de quickscan
 
 1. Start met de **intake** (`quickscan/00-intake.md`) om de context van de klant vast te leggen.

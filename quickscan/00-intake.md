@@ -13,3 +13,14 @@
 | Grootste ergernissen / pijnpunten | |
 | Doelen voor de komende 12 maanden | |
 | Contactpersoon + datum quickscan | |
+
+## Privacy & toegang
+
+| Onderwerp | Afgesproken |
+|-----------|-------------|
+| Verwerkersovereenkomst getekend (datum) | |
+| Manier van toegang (schermdelen / eigen account) | |
+| Einddatum account consultant | |
+| Aan te leveren datacheck-gegevens (geaggregeerd / zonder namen) | |
+| Opslaglocatie werkbestanden (beveiligde klantmap) | |
+| Contactpersoon bij privacy-incidenten | |
